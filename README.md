@@ -195,10 +195,8 @@ Followed by a head-to-head comparison table and a blunt final verdict.
 ```
 claude-skills/
 ├── README.md
-├── system-designer/
-│   └── SKILL.md          # Full 16-section system design methodology
-├── techyg/
-│   └── SKILL.md          # 5-phase tech recommendation engine
+├── system-designer.skill         # Full 16-section system design methodology
+├── techyg.skill                  # 5-phase tech recommendation engine
 └── (more skills coming...)
 ```
 
